@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexBunn18
 - 👀 I’m interested in agriculture & football refereeing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C#, HTML, CSS & MS Access SQL
 - 📫 How to reach me: alex.bunn35@gmail.com
 
 <!---
