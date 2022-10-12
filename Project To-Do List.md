@@ -167,3 +167,42 @@
 </ul>
 
 <h1>HTML & CSS & JavaScript</h1>
+
+<h2>HTML</h2>
+<ul>
+    <li>Links</li>
+    <li>Headings</li>
+    <li>Paragraphs</li>
+    <li>Lists</li>
+    <li>Images</li>
+    <li>Divs</li>
+</ul>
+
+<h2>CSS</h2>
+<ul>
+    <li>Text Colour</li>
+    <li>Font, size, weight etc.</li>
+    <li>Text Alignment</li>
+    <li>Page Background Colour</li>
+    <li>Text Background Colour</li>
+    <li>Borders</li>
+    <li>Image Properties
+        <ul>
+            <li>Width</li>
+            <li>Height</li>
+            <li>Margins</li>
+        </ul>
+    </li>
+    <li>Styling Divs
+        <ul>
+            <li>Position</li>
+            <li>Display</li>
+            <li>Overflow</li>
+            <li>Margin</li>
+            <li>Size</li>
+            <li>Border</li>
+            <li>More..</li>
+        </ul>
+    </li>
+
+</ul>
